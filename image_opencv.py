@@ -9,3 +9,4 @@ if k == 27:
 elif k == ord('s'):
    cv2.imwrite('forest.png', img)
 cv2.destroyAllWindows()
+#To print text on the image view "Text_opencv" file 
