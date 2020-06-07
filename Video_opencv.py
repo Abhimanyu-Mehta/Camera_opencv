@@ -11,3 +11,4 @@ while True:
 
 cam.release()
 cv2.destroyAllWindows()
+#To print text on the video view "Text_opencv" file 
